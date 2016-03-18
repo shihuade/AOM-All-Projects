@@ -1,6 +1,6 @@
-# UUID                 	Group Name
+# UUID                                  	Group Name
 #
-global:Anonymous-Users 	Anonymous Users
-global:Project-Owners  	Project Owners
-global:Registered-Users	Registered Users
-mdb:chrome-git-admins  	mdb/chrome-git-admins
+18cf7f27ecb1f1d727d16d5dfeaf019d9b9f5c83	Administrators
+global:Anonymous-Users                  	Anonymous Users
+global:Project-Owners                   	Project Owners
+global:Registered-Users                 	Registered Users
